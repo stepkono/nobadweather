@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+// ЕБАТЬ КОНЯ В ОЧКО 19.02.24
+
 struct HomePageView: View {
     var body: some View {
         let outfit = getOutfit()
